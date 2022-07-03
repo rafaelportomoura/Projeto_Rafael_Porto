@@ -14,6 +14,7 @@ class B {
   void setB2( float B2 ) { this->B2 = B2; }
   void MB1() { cout << "MB1"; }
   void MB2() { cout << "MB2"; }
+  void MB3() { cout << "MB3"; }
 };
 
 int main() {
