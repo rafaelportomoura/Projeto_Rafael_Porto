@@ -14,6 +14,7 @@ class D {
   void MD1() { cout << "MD1"; }
   void MD2() { cout << "MD2"; }
   void MD3() { cout << "MD3"; }
+  void MD4() { cout << "MD4"; }
 };
 
 int main() {
