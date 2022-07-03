@@ -14,6 +14,7 @@ class C {
   void setC2( string C2 ) { this->C2 = C2; }
   void MC1() { cout << "MC1"; }
   void MC2() { cout << "MC2"; }
+  void MC3() { cout << "MC3"; }
 };
 
 int main() {
