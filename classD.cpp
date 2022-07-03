@@ -13,6 +13,7 @@ class D {
   void setD2( string D2 ) { this->D2 = D2; }
   void MD1() { cout << "MD1"; }
   void MD2() { cout << "MD2"; }
+  void MD4() { cout << "MD4"; }
 };
 
 int main() {
